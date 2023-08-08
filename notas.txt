@@ -1,0 +1,11 @@
+onclick--> para detectar cuando el usuario hace un clic en un boton
+onchange --> para inputs. Detecta cuando el ususario escribio algo en el input
+
+.addEventListener: escucha cada vez que sucede cierto evento y ejecuta un codigo js
+    1. Nombre del evento
+    2. Codigo js que vamos a llamar
+
+Los formuularios agarran el ultimo boton que haya yt lo interpretaj como un boton de tipo submit 
+Los formularios al enviarse cambian el url, es decir, los envian a una ruta y nosotros podes especificar esa ruta donde se va a enviar el formularios
+
+Lo que tenemos que hacer si trabajamos con formularios no es escuchar el evento de hace click en el boton
